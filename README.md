@@ -23,7 +23,7 @@ This project was built in relation to providing functionality to an app called *
 
 
 ### The third and final deliverable
-... is contained within the [Vacation_Itinerary](Vacation_Itinerary) subfolder. This code uses the csv created in the previous section to:
+... is contained within the Vacation_Itinerary subfolder. This code uses the csv created in the previous section to:
 - create an itinerary map with four locations and a route layer;
 
 
